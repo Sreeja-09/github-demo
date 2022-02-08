@@ -1,0 +1,2 @@
+ Characters are individual letters, numbers, and symbols, that make up words and sentences.
+ In information technology, a character is a printable symbol having phonetic or pictographic meaning and usually forming part of a word of text, depicting a numeral, or expressing grammatical punctuation
