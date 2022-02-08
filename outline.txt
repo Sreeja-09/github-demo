@@ -1,2 +1,2 @@
 Hlo this is Sreeja
-+ is used to add given numbers
++ is used to add given numbers.
