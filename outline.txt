@@ -1,2 +1,2 @@
 Hlo this is Sreeja
-Assition symbol is used to add given numbers.
+Addition symbol(+) is used to add given numbers.
