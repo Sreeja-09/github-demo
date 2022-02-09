@@ -2,3 +2,6 @@ Hlo this is Sreeja
 Add the given numbers and add output in +.txt:
 2+5
 5+8
+Subtract the given numbers and add output in +.txt:
+5-2
+8-4
