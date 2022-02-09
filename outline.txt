@@ -1,3 +1,4 @@
 Hlo this is Sreeja
-+ is used to add given numbers.
-- is used to subtract given numbers
+Add the given numbers and add output in +.txt:
+2+5
+5+8
