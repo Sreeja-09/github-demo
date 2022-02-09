@@ -1,5 +1,5 @@
  Characters are individual letters, numbers, and symbols, that make up words and sentences.
  In information technology, a character is a printable symbol having phonetic or pictographic meaning and usually forming part of a word of text, depicting a numeral, or expressing grammatical punctuation
- Add the given numbers and add output in +.txt:
- 2+5
- 5+8
+ + is used to add given numbers.
+- is used to subtract given numbers
+ 
