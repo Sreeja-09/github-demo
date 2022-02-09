@@ -1,2 +1,3 @@
 Hlo this is Sreeja
-Addition symbol(+) is used to add given numbers.
++ is used to add given numbers.
+- is used to subtract given numbers
