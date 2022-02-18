@@ -5,3 +5,4 @@ Add the given numbers and add output in +.txt:
 Subtract the given numbers and add output in +.txt:
 5-2
 8-4
+5*2
